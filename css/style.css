@@ -8,5 +8,6 @@ header {
 	align-items: center;
 	justify-content: center;
 	height: 400px;
-	background-color: #d0d1d3;
-}
+	background-image: url('/img/fon.png') no-repeat;
+	background-color: blue;
+	}
