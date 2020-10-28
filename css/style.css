@@ -10,4 +10,5 @@ header {
 	height: 400px;
 	background-image: url('/img/fon.png') no-repeat;
 	background-color: blue;
+	block-size: auto;
 	}
