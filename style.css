@@ -8,7 +8,9 @@ header {
 	align-items: center;
 	justify-content: center;
 	height: 400px;
+	width: 100%;
 	background-image: url(/img/fon_header.jpg);
+	background-size: cover;
 	
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
