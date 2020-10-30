@@ -9,7 +9,7 @@ header {
 	justify-content: center;
 	height: 400px;
 	width: 100%;
-	background-image: url(/img/fon_header.jpg);
+	background-image: url(/img/fon.png);
 	background-size: cover;
 	
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -75,4 +75,11 @@ footer .links > a {
 .copyright {
 	color: rgb(108, 117, 125);
 	font-family: 'Times New Roman', Times, serif;
+}
+
+.news:nth-child(2n){
+		background: #2bdb13;
+}
+.news:nth-child(2n+1){
+	background: #453880;
 }
