@@ -1,6 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
+	font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -10,6 +11,7 @@ header {
 	height: 400px;
 	width: 100%;
 	background-image: url(/img/fon.png);
+	background-repeat: no-repeat;
 	background-size: cover;
 	
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -19,7 +21,10 @@ header h1 {
 	font-size: 4rem;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+.new:before {
+	color: red;
+	content: "Новое ";
+}
 .news {
 	background-color: #fff;
 	padding: 50px 0 32px;
