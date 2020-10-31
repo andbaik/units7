@@ -78,8 +78,8 @@ footer .links > a {
 }
 
 .news:nth-child(2n){
-		background: #2bdb13;
+		background: #eceeec;
 }
 .news:nth-child(2n+1){
-	background: #453880;
+	background: #ffffff;
 }
